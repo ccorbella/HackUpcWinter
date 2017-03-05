@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27c5f6a361bc95bf9908f8f43969e1d007f27b2">
+        <dex dex="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d02c08162e82eaf018ba38a338336126f04d6ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_86179a0a26bc4ec34d11b278d59d68532b42727e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gemma\.android\build-cache\8a94a4b1dee2a5bc8695a175e68d22c2cebc4518\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae5b374114954602996216ac5844ad45830dcceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gemma\.android\build-cache\1787dc85380324ff1c33455b0a24abe73b583fb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b86a378c68dc22d65df0de65b31240cca327fa6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gemma\.android\build-cache\075ae19676dc731edeb49182f27de8c632a27d17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\gemma\Desktop\Gemma\altres\HackUPC winter\EverydayHero\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca383bc36669277cd154684c5b07e265c7064eff\classes.dex" />
+    </item>
+
+</items>
